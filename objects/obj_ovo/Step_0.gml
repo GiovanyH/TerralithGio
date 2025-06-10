@@ -1,0 +1,1 @@
+if (place_meeting(x, y, tilemap)) instance_destroy();

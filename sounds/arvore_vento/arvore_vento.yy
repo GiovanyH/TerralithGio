@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"arvore_vento",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":29.852083,
+  "name":"arvore_vento",
+  "parent":{
+    "name":"Ambient",
+    "path":"folders/Sounds/Ambient.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"arvore_vento.wav",
+  "type":0,
+  "volume":0.59,
+}

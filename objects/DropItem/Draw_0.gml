@@ -1,0 +1,1 @@
+draw_sprite(current_sprite, 0, x + spriteoffsetx, y + spriteoffsety);

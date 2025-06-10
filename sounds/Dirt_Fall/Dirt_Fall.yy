@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Dirt_Fall",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.783673,
+  "name":"Dirt_Fall",
+  "parent":{
+    "name":"Footsteps",
+    "path":"folders/Sounds/Footsteps.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Dirt_Fall.WAV",
+  "type":0,
+  "volume":0.56,
+}

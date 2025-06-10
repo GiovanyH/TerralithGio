@@ -1,0 +1,1 @@
+var player_spawn = instance_create_layer(1366/2, 0, "Instances", obj_Player);

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Tibum1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.702979,
+  "name":"Tibum1",
+  "parent":{
+    "name":"Interactions",
+    "path":"folders/Sounds/Interactions.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Tibum1.wav",
+  "type":0,
+  "volume":0.3,
+}
